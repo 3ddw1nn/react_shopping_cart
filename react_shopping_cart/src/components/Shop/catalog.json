@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Nike x Jacquemus Le Hoodie",
+    "price": 180,
+    "imgs": "Nike_hoodie1.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Supreme André 3000 Tee",
+    "price": 84,
+    "imgs": "Supreme_tee1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Travis Scott Cactus Jack + Kaws For Fragment Tee",
+    "price": 40,
+    "imgs": "Travis_tee1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Anti Social Social Club Toned Down Hoodie",
+    "price": 128,
+    "imgs": "AS_hoodie1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bravest Studios 2021 LA Shorts",
+    "price": 104,
+    "imgs": "Bravest_shorts1.jpg"
+  },
+  {
+    "id": 5,
+    "name": " Palace Adidas Longsleeve Graphic Goalie Top",
+    "price": 121,
+    "imgs": "Palace_longsleeve1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Supreme Bonded Logo Down Jacket",
+    "price": 440,
+    "imgs": "Supreme_jacket1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kith Pinstripe Williams I Sweatpant",
+    "price": 130,
+    "imgs": "Kith_pants1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Supreme X Champion LS Tee",
+    "price": 95,
+    "imgs": "Supreme_longsleeve1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Fear of God Essentials 1977 Knit L/S Polo",
+    "price": 150,
+    "imgs": "FOG_longsleeve1.jpg"
+  }
+]
